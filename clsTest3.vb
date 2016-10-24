@@ -1,7 +1,7 @@
 ﻿Public Class clsTest3
 
     Public Sub Test3Sub1()
-
+        ' Change this on too and then delete the Test3 class from the v2 branch to see how it deals
     End Sub
 
     Public Sub Test3Sub2()
