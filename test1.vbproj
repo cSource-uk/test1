@@ -72,7 +72,6 @@
     <Compile Include="clsNewTest3.vb" />
     <Compile Include="clsTest1.vb" />
     <Compile Include="clsTest2.vb" />
-    <Compile Include="clsTest3.vb" />
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
